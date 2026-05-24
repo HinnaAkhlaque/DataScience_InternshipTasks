@@ -49,7 +49,8 @@ PCA reduced the dataset into two principal components:<br>
 PC1 & PC2<br>
 This allowed the customer clusters to be visualized clearly in a 2D scatter plot.<br>
 
-**Results and Findings:**
+**Results and Findings:** <br>
+<br>
 The K-Means clustering algorithm identified five major customer groups based on annual income and spending behavior.
 
 | Cluster | Customer Type | Characteristics |
@@ -61,7 +62,7 @@ The K-Means clustering algorithm identified five major customer groups based on 
 | 4 | Careful Wealthy Customers | High income but low spending |
 <br>
 <br>
-**Key Findings**
+**Key Findings** <br>
 *1. Spending Behavior is Diverse*
 <br>
 Customers exhibit significantly different spending patterns:<br>
@@ -69,7 +70,7 @@ some customers spend heavily despite lower income<br>
 some high-income customers spend conservatively<br>
 This shows that income alone is not sufficient to predict customer behavior.<br>
 
-*2. Middle-Income Customers Dominate*
+*2. Middle-Income Customers Dominate* 
 <br>
 Most customers fall within the middle-income range, indicating that the mall primarily serves middle-class consumers.<br>
 
