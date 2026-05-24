@@ -1,6 +1,6 @@
 **Task-2: Customer Segmentation Using Unsupervised Learning**
 
-**Task Objective:**
+**Task Objective:** <br>
 The objective of this project is to perform customer segmentation using unsupervised machine learning techniques on the Mall Customers Dataset. The goal is to group customers based on their purchasing behavior, annual income, and spending patterns in order to identify meaningful customer segments. <br>
 
 By understanding different customer groups, businesses can: <br>
@@ -10,7 +10,7 @@ optimize promotional strategies <br>
 increase customer retention and revenue <br>
 <br>
 
-**Approach:**
+**Approach:** <br>
 *1. Exploratory Data Analysis (EDA)*
 The first step is to understand the dataset through statistical analysis and visualizations, which included:
 <br>
@@ -19,7 +19,7 @@ analyzing feature distributions<br>
 plotting histograms and scatter plots<br>
 studying relationships between variables<br>
 <br>
-Key analyses performed:<br>
+*Key analyses performed*:<br>
 Age distribution<br>
 Annual income distribution<br>
 Spending score distribution<br>
