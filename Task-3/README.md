@@ -56,11 +56,11 @@ A 24-hour rolling mean was added to capture short-term trends and smooth fluctua
 
 _3. Forecasting Models_<br>
 **ARIMA**<br>
-ARIMA(p,d,q)<br>
-ARIMA was used as a traditional statistical baseline model for time-series forecasting. It captures autoregressive and moving-average relationships in sequential data.<br>
-**Prophet**<br>
-Prophet was used to model trend and seasonality patterns in household energy consumption.<br>
-**XGBoost**<br>
+ARIMA(p,d,q) <br>
+ARIMA was used as a traditional statistical baseline model for time-series forecasting. It captures autoregressive and moving-average relationships in sequential data. <br>
+**Prophet** <br>
+Prophet was used to model trend and seasonality patterns in household energy consumption. <br>
+**XGBoost** <br>
 XGBoost was implemented as a machine learning forecasting model using engineered temporal features.<br>
 
 **Results and Findings:**<br>
@@ -80,11 +80,11 @@ XGBoost significantly outperformed both ARIMA and Prophet models.
 Reasons for Better Performance:<br>
 Successfully captured nonlinear energy consumption behavior<br>
 Leveraged engineered temporal features effectively<br>
-Modeled short-term fluctuations and spikes more accurately<br>
+Modeled short-term fluctuations and spikes more accurately <br>
 <br>
-*ARIMA Performance*<br>
-ARIMA was able to capture the general trend of household energy usage but struggled with highly volatile fluctuations and nonlinear patterns.<br>
-*Prophet Performance*<br>
+*ARIMA Performance* <br>
+ARIMA was able to capture the general trend of household energy usage but struggled with highly volatile fluctuations and nonlinear patterns. <br>
+*Prophet Performance* <br>
 Prophet successfully modeled recurring seasonal trends and daily cycles but produced smoother forecasts than the actual observations.<br>
 
 **Conclusion:**<br>
