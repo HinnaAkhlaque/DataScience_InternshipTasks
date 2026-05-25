@@ -4,6 +4,8 @@ A machine learning project that predicts loan default probability and optimizes 
 **Task Objective:**<br>
 Predict the likelihood of a loan default using the Home Credit Default Risk Dataset and optimize the classification threshold based on a cost-benefit framework — rather than standard accuracy metrics — to minimize total business loss from bad lending decisions.<br>
 
+Dataset: Home Credit Default Risk (applicationtrain.csv) <br>
+
 **Approach:**<br>
 1. Data Cleaning & Preprocessing<br>
 
