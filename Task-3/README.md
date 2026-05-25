@@ -3,6 +3,8 @@
 **Project Overview:** <br>
 This project focuses on forecasting short-term household energy consumption using historical time-series data. The goal was to analyze temporal consumption patterns and compare the performance of multiple forecasting techniques, including statistical, probabilistic, and machine learning approaches.<br>
 <br>
+Dataset: Household Power Consumption Dataset (Kaggle) <br>
+<br>
 **Task Objective:** <br>
 The main objectives of this project were to:<br>
 <br>
